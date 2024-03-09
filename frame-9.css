@@ -1,0 +1,239 @@
+.desktop-9-child {
+  position: absolute;
+  top: 279.5px;
+  left: 0;
+  max-height: 100%;
+  width: 3880px;
+}
+.croma7 {
+  position: absolute;
+  top: 60px;
+  left: 137px;
+  font-size: var(--font-size-109xl);
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.desktop-9-item {
+  position: absolute;
+  top: 65px;
+  left: 1368px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-snow-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1438px;
+  height: 146px;
+  cursor: pointer;
+}
+.menu7,
+.what-are-you7 {
+  position: absolute;
+  font-weight: 300;
+}
+.what-are-you7 {
+  top: 113px;
+  left: 1563px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.menu7 {
+  top: 96px;
+  left: 864px;
+  font-size: var(--font-size-61xl);
+  display: inline-block;
+  width: 208px;
+  height: 90px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.customer-icon8,
+.help-icon8,
+.menu-icon7,
+.search-icon9,
+.shopping-cart-icon7 {
+  position: absolute;
+  top: 96px;
+  left: 749px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.customer-icon8,
+.help-icon8,
+.search-icon9,
+.shopping-cart-icon7 {
+  left: 1420px;
+}
+.customer-icon8,
+.help-icon8,
+.shopping-cart-icon7 {
+  left: 3404px;
+  cursor: pointer;
+}
+.help-icon8,
+.shopping-cart-icon7 {
+  left: 3547px;
+}
+.help-icon8 {
+  left: 3689px;
+}
+.desktop-9-inner {
+  position: absolute;
+  top: 4976.5px;
+  left: -52.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 3984.2px;
+  height: 3px;
+}
+.facebook-icon8,
+.instagram-icon7,
+.linkedin-icon7,
+.twitterx-icon7,
+.youtube-icon7 {
+  position: absolute;
+  top: 5011px;
+  left: 3180.1px;
+  width: 109px;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon8,
+.instagram-icon7,
+.linkedin-icon7,
+.twitterx-icon7 {
+  left: 3313.1px;
+}
+.facebook-icon8,
+.linkedin-icon7,
+.twitterx-icon7 {
+  left: 3446.1px;
+}
+.linkedin-icon7,
+.twitterx-icon7 {
+  left: 3579.1px;
+}
+.twitterx-icon7 {
+  left: 3712.1px;
+}
+.about-us6,
+.privercy-policy6,
+.terms-of-uses6 {
+  position: absolute;
+  top: 5034px;
+  left: 695.1px;
+  font-weight: 300;
+}
+.about-us6,
+.terms-of-uses6 {
+  left: 141.1px;
+}
+.about-us6 {
+  left: 1252.1px;
+}
+.preview-images-about-croma1-pn-icon,
+.preview-images-about-croma2-pn-icon {
+  position: absolute;
+  top: 823px;
+  left: 227px;
+  width: 1000px;
+  height: 666.7px;
+  object-fit: cover;
+}
+.preview-images-about-croma2-pn-icon {
+  top: 1642px;
+  left: 2637px;
+  height: 938px;
+}
+.bringing-alive-the {
+  margin: 0;
+}
+.bringing-alive-the-container {
+  position: absolute;
+  top: 1668px;
+  left: 227px;
+  font-weight: 300;
+  text-align: left;
+}
+.preview-images-about-croma3-pn-icon {
+  position: absolute;
+  top: 2946px;
+  left: 227px;
+  width: 1000px;
+  height: 666.7px;
+  object-fit: cover;
+}
+.with-this-intent-container {
+  position: absolute;
+  top: 2946px;
+  left: 1328px;
+  font-weight: 300;
+  text-align: left;
+}
+.about-tata-group-container {
+  position: absolute;
+  top: 3726px;
+  left: 1685px;
+  font-weight: 300;
+}
+.each-company-under-container,
+.the-tata-group-container {
+  position: absolute;
+  top: 3957px;
+  left: 229px;
+  font-weight: 300;
+  text-align: left;
+}
+.each-company-under-container {
+  top: 4413px;
+}
+.about-croma {
+  position: absolute;
+  top: 452px;
+  left: 301px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kaisei-decol);
+  text-align: left;
+}
+.desktop-9-child1,
+.home-icon7 {
+  position: absolute;
+  top: 573px;
+  left: 301px;
+  width: 765px;
+  height: 1px;
+  object-fit: contain;
+}
+.home-icon7 {
+  top: 97px;
+  left: 3279px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.desktop-9 {
+  position: absolute;
+  top: 0;
+  left: 75px;
+  background-color: var(--color-black);
+  width: 3880px;
+  height: 5201px;
+  overflow: hidden;
+}
+.launched-in-2006-container {
+  position: absolute;
+  top: 811px;
+  left: 1400px;
+  font-weight: 300;
+  text-align: left;
+}
+.desktop-9-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 5245px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}

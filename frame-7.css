@@ -1,0 +1,481 @@
+.desktop-7-child {
+  position: absolute;
+  top: 3349.5px;
+  left: -102.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 3984.2px;
+  height: 3px;
+}
+.facebook-icon6,
+.instagram-icon5,
+.linkedin-icon5,
+.twitterx-icon5,
+.youtube-icon5 {
+  position: absolute;
+  top: 3384px;
+  left: 3130.1px;
+  width: 109px;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon6,
+.instagram-icon5,
+.linkedin-icon5,
+.twitterx-icon5 {
+  left: 3263.1px;
+}
+.facebook-icon6,
+.linkedin-icon5,
+.twitterx-icon5 {
+  left: 3396.1px;
+}
+.linkedin-icon5,
+.twitterx-icon5 {
+  left: 3529.1px;
+}
+.twitterx-icon5 {
+  left: 3662.1px;
+}
+.about-us4,
+.privercy-policy4,
+.terms-of-uses4 {
+  position: absolute;
+  top: 3407px;
+  left: 645.1px;
+  font-weight: 300;
+}
+.about-us4,
+.terms-of-uses4 {
+  left: 91.1px;
+}
+.about-us4 {
+  left: 1202.1px;
+  cursor: pointer;
+}
+.my-account {
+  position: absolute;
+  top: 350px;
+  left: 58px;
+  font-weight: 600;
+}
+.my-profile-page {
+  margin: 0;
+}
+.my-profile-page-container {
+  position: absolute;
+  top: 633px;
+  left: 749px;
+  font-size: var(--font-size-77xl);
+  font-weight: 600;
+}
+.first-name {
+  position: absolute;
+  top: 931px;
+  left: 2008px;
+  font-weight: 600;
+  display: inline-block;
+  width: 518px;
+  height: 80px;
+}
+.desktop-7-child1,
+.desktop-7-child2,
+.desktop-7-inner,
+.desktop-7-item {
+  position: absolute;
+  height: 5.12%;
+  width: 29.28%;
+  top: 30.04%;
+  right: 51.42%;
+  bottom: 64.84%;
+  left: 19.3%;
+  border-radius: var(--br-21xl);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.desktop-7-child1,
+.desktop-7-child2,
+.desktop-7-inner {
+  top: 69.11%;
+  right: 16.75%;
+  bottom: 25.77%;
+  left: 53.97%;
+}
+.desktop-7-child1,
+.desktop-7-child2 {
+  right: 51.42%;
+  left: 19.3%;
+}
+.desktop-7-child2 {
+  height: 4.39%;
+  width: 18.56%;
+  top: 80.2%;
+  bottom: 15.41%;
+  left: 30.03%;
+  cursor: pointer;
+}
+.discard-changes {
+  position: absolute;
+  top: 2891px;
+  left: 1244px;
+}
+.desktop-7-child3 {
+  top: 2021px;
+  left: 749px;
+  background-color: var(--color-gainsboro-100);
+  width: 1136px;
+  height: 182px;
+}
+.desktop-7-child3,
+.desktop-7-child4,
+.desktop-7-child5 {
+  position: absolute;
+  border-radius: var(--br-21xl);
+}
+.desktop-7-child4 {
+  top: 2021px;
+  left: 2098px;
+  background-color: var(--color-gainsboro-100);
+  width: 1136px;
+  height: 182px;
+}
+.desktop-7-child5 {
+  top: 2851px;
+  left: 2094px;
+  width: 568px;
+  height: 156px;
+  opacity: 0.7;
+  cursor: pointer;
+}
+.pencil-icon {
+  position: absolute;
+  top: 2074px;
+  left: 3130px;
+  width: 76px;
+  height: 76px;
+  object-fit: cover;
+}
+.enter-your-mobile {
+  top: 2074px;
+  left: 917px;
+  color: var(--color-gray-300);
+}
+.div12,
+.enter-your-mobile,
+.mobile-number {
+  position: absolute;
+  font-weight: 600;
+}
+.div12 {
+  top: 2074px;
+  left: 786px;
+  color: var(--color-black);
+}
+.mobile-number {
+  top: 1895px;
+  left: 763px;
+}
+.desktop-7-child6 {
+  position: absolute;
+  top: 1409px;
+  left: 749px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro-100);
+  width: 1136px;
+  height: 182px;
+}
+.enter-middle-name {
+  position: absolute;
+  top: 1462px;
+  left: 828px;
+  font-weight: 600;
+  color: var(--color-gray-300);
+}
+.desktop-7-child7 {
+  position: absolute;
+  top: 1409px;
+  left: 2094px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro-100);
+  width: 1136px;
+  height: 182px;
+}
+.enter-last-name {
+  position: absolute;
+  top: 1458px;
+  left: 2134px;
+  font-weight: 600;
+  color: var(--color-gray-300);
+}
+.desktop-7-child8 {
+  position: absolute;
+  top: 1068px;
+  left: 2094px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro-100);
+  width: 1136px;
+  height: 182px;
+}
+.enter-first-name {
+  position: absolute;
+  top: 1121px;
+  left: 2134px;
+  font-weight: 600;
+  color: var(--color-gray-300);
+}
+.email-id,
+.last-name,
+.middle-name,
+.prof,
+.title {
+  position: absolute;
+  top: 1307px;
+  left: 749px;
+  font-weight: 600;
+}
+.email-id,
+.last-name,
+.prof,
+.title {
+  left: 2094px;
+}
+.email-id,
+.prof,
+.title {
+  top: 931px;
+  left: 749px;
+}
+.email-id,
+.prof {
+  top: 1895px;
+  left: 2094px;
+}
+.prof {
+  top: 1121px;
+  left: 828px;
+  color: var(--color-gray-400);
+}
+.enter-your-email,
+.female,
+.id-rather-not,
+.male {
+  position: absolute;
+  top: 1691px;
+  left: 893px;
+  font-weight: 600;
+}
+.enter-your-email,
+.female,
+.id-rather-not {
+  left: 1460px;
+}
+.enter-your-email,
+.id-rather-not {
+  left: 2040px;
+}
+.enter-your-email {
+  top: 2074px;
+  left: 2134px;
+  color: var(--color-gray-300);
+}
+.date-of-anniversary,
+.date-of-birth,
+.ddmmyyyy,
+.ddmmyyyy1 {
+  position: absolute;
+  top: 2315px;
+  left: 749px;
+  font-weight: 600;
+}
+.date-of-anniversary,
+.ddmmyyyy,
+.ddmmyyyy1 {
+  left: 2094px;
+}
+.ddmmyyyy,
+.ddmmyyyy1 {
+  top: 2510px;
+  left: 823px;
+  color: var(--color-gray-400);
+}
+.ddmmyyyy1 {
+  left: 2138px;
+}
+.save-changes {
+  position: absolute;
+  top: 2891px;
+  left: 2143px;
+  color: var(--color-gray-100);
+}
+.desktop-7-child9 {
+  position: absolute;
+  top: 279.5px;
+  left: 0;
+  max-height: 100%;
+  width: 3880px;
+}
+.croma5,
+.desktop-7-child10 {
+  position: absolute;
+  cursor: pointer;
+}
+.croma5 {
+  top: 60px;
+  left: 137px;
+  font-size: var(--font-size-109xl);
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.desktop-7-child10 {
+  top: 65px;
+  left: 1368px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-snow-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1438px;
+  height: 146px;
+}
+.menu5,
+.what-are-you5 {
+  position: absolute;
+  font-weight: 300;
+}
+.what-are-you5 {
+  top: 113px;
+  left: 1563px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.menu5 {
+  top: 96px;
+  left: 864px;
+  font-size: var(--font-size-61xl);
+  display: inline-block;
+  width: 208px;
+  height: 90px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.customer-icon6,
+.help-icon5,
+.menu-icon5,
+.search-icon7,
+.shopping-cart-icon5 {
+  position: absolute;
+  top: 96px;
+  left: 749px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.customer-icon6,
+.help-icon5,
+.search-icon7,
+.shopping-cart-icon5 {
+  left: 1420px;
+}
+.customer-icon6,
+.help-icon5,
+.shopping-cart-icon5 {
+  left: 3404px;
+}
+.help-icon5,
+.shopping-cart-icon5 {
+  left: 3547px;
+  cursor: pointer;
+}
+.help-icon5 {
+  left: 3689px;
+}
+.desktop-7-child11,
+.desktop-7-child12,
+.desktop-7-child13 {
+  position: absolute;
+  top: 735.3px;
+  left: 751.5px;
+  border-top: 3px solid var(--color-aquamarine-100);
+  box-sizing: border-box;
+  width: 82px;
+  height: 3px;
+}
+.desktop-7-child12,
+.desktop-7-child13 {
+  top: 735.5px;
+  left: 882.5px;
+  width: 486px;
+}
+.desktop-7-child13 {
+  left: 1418.5px;
+  width: 62px;
+}
+.home-icon5 {
+  position: absolute;
+  top: 96px;
+  left: 3281px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.desktop-7 {
+  position: absolute;
+  top: 66px;
+  left: 38px;
+  background-color: var(--color-black);
+  width: 3880px;
+  height: 3555px;
+  overflow: hidden;
+}
+.expand-arrow-icon,
+.pencil-icon1 {
+  position: absolute;
+  top: 2145px;
+  left: 1824px;
+  width: 76px;
+  height: 76px;
+  object-fit: cover;
+}
+.expand-arrow-icon {
+  top: 1198px;
+  left: 1785px;
+  width: 77px;
+  height: 69px;
+}
+.circle-icon,
+.circle-icon1,
+.circle-icon2,
+.full-stop-icon1 {
+  position: absolute;
+  top: 1744px;
+  left: 1351px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.circle-icon1,
+.circle-icon2,
+.full-stop-icon1 {
+  left: 1938px;
+}
+.circle-icon2,
+.full-stop-icon1 {
+  left: 772px;
+  width: 110px;
+  height: 110px;
+}
+.full-stop-icon1 {
+  top: 1759px;
+  left: 787px;
+  width: 80px;
+  height: 80px;
+}
+.desktop-7-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3677px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}

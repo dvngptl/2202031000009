@@ -1,0 +1,386 @@
+.desktop-2-child {
+  position: absolute;
+  top: 271.5px;
+  left: 0;
+  max-height: 100%;
+  width: 3880px;
+}
+.desktop-2-item {
+  position: absolute;
+  top: 272px;
+  left: -52px;
+  width: 3932px;
+  height: 992px;
+  object-fit: cover;
+  display: none;
+}
+.croma {
+  position: absolute;
+  top: 52px;
+  left: 137px;
+  font-size: var(--font-size-109xl);
+  text-align: center;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  cursor: pointer;
+}
+.desktop-2-inner,
+.rectangle-div {
+  position: absolute;
+  top: 5260px;
+  left: -5776px;
+  width: 100px;
+  height: 100px;
+}
+.rectangle-div {
+  top: 57px;
+  left: 1368px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-snow-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1438px;
+  height: 146px;
+  cursor: pointer;
+}
+.what-are-you {
+  position: absolute;
+  top: 105px;
+  left: 1563px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+  color: var(--color-black);
+  text-align: center;
+}
+.add-shopping-cart,
+.menu {
+  position: absolute;
+  height: 90px;
+}
+.menu {
+  top: 88px;
+  left: 864px;
+  font-size: var(--font-size-61xl);
+  font-weight: 300;
+  text-align: center;
+  display: inline-block;
+  width: 208px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.add-shopping-cart {
+  top: 113px;
+  left: 3714px;
+  width: 90px;
+}
+.d-hp-2split-14feb2024-nqreg5-1-icon {
+  position: absolute;
+  top: 1429px;
+  left: 1905px;
+  border-radius: var(--br-56xl);
+  width: 1899.2px;
+  height: 388px;
+  object-fit: cover;
+  opacity: 0.75;
+}
+.hp-2split-icici-7feb2024-uyemh-icon {
+  position: absolute;
+  top: 1429px;
+  left: 81px;
+  border-radius: var(--br-56xl);
+  width: 1800px;
+  height: 388.3px;
+  object-fit: cover;
+}
+.line-icon {
+  position: absolute;
+  top: 272px;
+  left: 2075px;
+  width: 43px;
+  height: 34px;
+  object-fit: contain;
+}
+.categorynavigation-audiosplit-icon {
+  position: absolute;
+  top: 1962px;
+  left: 143px;
+  border-radius: 284px;
+  width: 720px;
+  height: 877px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.categorynavigation-audiosplit-icon1,
+.categorynavigation-audiosplit-icon2,
+.gaming-categoryicons-hfqpze-1,
+.wearable-categoryicons-sl3n0l {
+  position: absolute;
+  top: 1962px;
+  left: 863px;
+  border-radius: var(--br-229xl);
+  width: 720px;
+  height: 877px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.categorynavigation-audiosplit-icon2,
+.gaming-categoryicons-hfqpze-1,
+.wearable-categoryicons-sl3n0l {
+  left: 1577px;
+}
+.gaming-categoryicons-hfqpze-1,
+.wearable-categoryicons-sl3n0l {
+  left: 2297px;
+}
+.gaming-categoryicons-hfqpze-1 {
+  left: 3017px;
+}
+.connect-with-us {
+  position: absolute;
+  top: 2996px;
+  left: 268px;
+  font-weight: 300;
+  text-align: center;
+}
+.desktop-2-child1 {
+  position: absolute;
+  top: 3083px;
+  left: 268px;
+  border-radius: var(--br-56xl);
+  background-color: var(--color-gainsboro-100);
+  width: 809px;
+  height: 124px;
+}
+.enter-email-id {
+  position: absolute;
+  top: 3097px;
+  left: 324px;
+  font-weight: 300;
+  color: var(--color-black);
+  text-align: center;
+}
+.copyright-2023-croma {
+  margin: 0;
+}
+.copyright-2023-croma-container {
+  position: absolute;
+  top: 3435px;
+  left: 268px;
+  font-weight: 300;
+}
+.desktop-2-child2,
+.line-div {
+  position: absolute;
+  top: 2897.2px;
+  left: 1370px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 877.5px;
+}
+.desktop-2-child2 {
+  top: 2897px;
+  left: 2702.1px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-right: 2px solid var(--color-white);
+  width: 2px;
+  height: 878.1px;
+}
+.help-and-support,
+.usefull-links-about {
+  position: absolute;
+  top: 2958px;
+  left: 1423px;
+  font-weight: 300;
+}
+.help-and-support {
+  top: 3097px;
+  cursor: pointer;
+}
+.disclaimer,
+.privacy-policy,
+.return-policy {
+  position: absolute;
+  top: 3260px;
+  left: 1423px;
+  font-weight: 300;
+}
+.disclaimer,
+.privacy-policy {
+  top: 3410px;
+}
+.disclaimer {
+  top: 3560px;
+  display: inline-block;
+  width: 401px;
+  height: 132px;
+}
+.mobiles-laptops-cameras-container {
+  position: absolute;
+  top: 2950px;
+  left: 2896px;
+  font-weight: 300;
+  cursor: pointer;
+}
+.icon,
+.icon1,
+.icon2 {
+  position: absolute;
+  top: 586px;
+  left: 1448px;
+  width: 0;
+  height: 0;
+  object-fit: cover;
+}
+.icon1,
+.icon2 {
+  top: 819px;
+  left: 2054px;
+}
+.icon2 {
+  top: 884px;
+  left: 2091px;
+}
+.hp-laptop-28feb2024-luab5p-1-icon {
+  position: absolute;
+  top: 272px;
+  left: 0;
+  width: 3880px;
+  height: 994px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.help-icon {
+  left: 3683px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.desktop-2-child3,
+.help-icon,
+.login {
+  position: absolute;
+  top: 88px;
+}
+.desktop-2-child3 {
+  left: 3016px;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 224px;
+  height: 70px;
+}
+.login {
+  left: 3071px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inter);
+  cursor: pointer;
+}
+.desktop-2 {
+  position: absolute;
+  top: 43px;
+  left: 42px;
+  background-color: #000001;
+  width: 3880px;
+  height: 3826px;
+  overflow: hidden;
+}
+.customer-icon,
+.menu-icon,
+.more-than-icon,
+.search-icon,
+.shopping-cart-icon {
+  position: absolute;
+  top: 126px;
+  left: 792px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.customer-icon,
+.more-than-icon,
+.search-icon,
+.shopping-cart-icon {
+  left: 1463px;
+}
+.customer-icon,
+.more-than-icon,
+.shopping-cart-icon {
+  left: 3447px;
+  cursor: pointer;
+}
+.more-than-icon,
+.shopping-cart-icon {
+  left: 3590px;
+}
+.more-than-icon {
+  top: 2269px;
+  left: 3732px;
+}
+.right-arrow-icon,
+.youtube-icon {
+  position: absolute;
+  top: 3134px;
+  left: 959px;
+  width: 185px;
+  height: 90px;
+  object-fit: cover;
+}
+.youtube-icon {
+  top: 3273px;
+  left: 318px;
+  width: 109px;
+  height: 121px;
+}
+.facebook-icon,
+.home-icon,
+.instagram-icon,
+.linkedin-icon,
+.search-icon1,
+.twitterx-icon {
+  position: absolute;
+  top: 3273px;
+  left: 451px;
+  width: 109px;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon,
+.home-icon,
+.linkedin-icon,
+.search-icon1,
+.twitterx-icon {
+  left: 584px;
+}
+.home-icon,
+.linkedin-icon,
+.search-icon1,
+.twitterx-icon {
+  left: 717px;
+}
+.home-icon,
+.search-icon1,
+.twitterx-icon {
+  left: 850px;
+}
+.home-icon,
+.search-icon1 {
+  top: 126px;
+  left: 5467px;
+  width: 90px;
+  height: 90px;
+}
+.home-icon {
+  top: 124px;
+  left: 3315px;
+}
+.desktop-2-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3912px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}

@@ -1,0 +1,238 @@
+.desktop-5-child {
+  position: absolute;
+  top: 2515.5px;
+  left: -102.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 3984.2px;
+  height: 3px;
+}
+.facebook-icon3,
+.instagram-icon3,
+.linkedin-icon3,
+.twitterx-icon3,
+.youtube-icon3 {
+  position: absolute;
+  top: 2550px;
+  left: 3130.1px;
+  width: 109px;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon3,
+.instagram-icon3,
+.linkedin-icon3,
+.twitterx-icon3 {
+  left: 3263.1px;
+}
+.facebook-icon3,
+.linkedin-icon3,
+.twitterx-icon3 {
+  left: 3396.1px;
+}
+.linkedin-icon3,
+.twitterx-icon3 {
+  left: 3529.1px;
+}
+.twitterx-icon3 {
+  left: 3662.1px;
+}
+.about-us2,
+.privercy-policy2,
+.terms-of-uses2 {
+  position: absolute;
+  top: 2573px;
+  left: 645.1px;
+  font-weight: 300;
+}
+.about-us2,
+.terms-of-uses2 {
+  left: 91.1px;
+}
+.about-us2 {
+  left: 1202.1px;
+  cursor: pointer;
+}
+.facebook-icon4 {
+  position: absolute;
+  top: -880px;
+  left: 495.1px;
+  width: 109px;
+  height: 121px;
+  object-fit: cover;
+}
+.desktop-5-item {
+  position: absolute;
+  top: 507.5px;
+  left: 177px;
+  max-height: 100%;
+  width: 3547px;
+}
+.top-selling-deals {
+  position: absolute;
+  top: 338px;
+  left: 335px;
+  font-size: var(--font-size-77xl);
+  font-weight: 300;
+}
+.hp-bestsellingdeals-1-28feb24-icon,
+.hp-bestsellingdeals-2-28feb24-icon {
+  position: absolute;
+  top: 619px;
+  left: 84px;
+  width: 790px;
+  height: 790px;
+  object-fit: cover;
+}
+.hp-bestsellingdeals-2-28feb24-icon {
+  left: 1059px;
+}
+.hp-bestsellingdeals-4-28feb24-icon,
+.hp-bestsellingdeals-7-28feb24-icon {
+  position: absolute;
+  top: 619px;
+  left: 2015px;
+  width: 790px;
+  height: 790px;
+  object-fit: cover;
+}
+.hp-bestsellingdeals-7-28feb24-icon {
+  left: 2971px;
+}
+.hp-bestsellingdeals-sc-5-27feb-icon,
+.hp-bestsellingdeals-sc-6-26feb-icon {
+  position: absolute;
+  top: 1589px;
+  left: 84px;
+  width: 790px;
+  height: 790px;
+  object-fit: cover;
+}
+.hp-bestsellingdeals-sc-6-26feb-icon {
+  left: 1059px;
+}
+.hp-bestsellingdeals-sc-12-26fe-icon,
+.hp-bestsellingdeals-sc-9-27feb-icon {
+  position: absolute;
+  top: 1589px;
+  left: 2971px;
+  width: 790px;
+  height: 790px;
+  object-fit: cover;
+}
+.hp-bestsellingdeals-sc-12-26fe-icon {
+  left: 2015px;
+}
+.desktop-5-inner {
+  position: absolute;
+  top: 282.5px;
+  left: 0;
+  max-height: 100%;
+  width: 3880px;
+}
+.croma3 {
+  position: absolute;
+  top: 63px;
+  left: 137px;
+  font-size: var(--font-size-109xl);
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  cursor: pointer;
+}
+.desktop-5-child1 {
+  position: absolute;
+  top: 68px;
+  left: 1368px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-snow-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1438px;
+  height: 146px;
+}
+.what-are-you3 {
+  position: absolute;
+  top: 116px;
+  left: 1563px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+  color: var(--color-black);
+}
+.menu-icon3,
+.menu3 {
+  position: absolute;
+  top: 99px;
+  height: 90px;
+}
+.menu3 {
+  left: 864px;
+  font-size: var(--font-size-61xl);
+  font-weight: 300;
+  display: inline-block;
+  width: 208px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.menu-icon3 {
+  left: 749px;
+  width: 90px;
+  object-fit: cover;
+}
+.customer-icon4,
+.help-icon3,
+.home-icon3,
+.search-icon5,
+.shopping-cart-icon3 {
+  position: absolute;
+  top: 99px;
+  left: 1420px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.customer-icon4,
+.help-icon3,
+.home-icon3,
+.shopping-cart-icon3 {
+  left: 3404px;
+  cursor: pointer;
+}
+.help-icon3,
+.home-icon3,
+.shopping-cart-icon3 {
+  left: 3547px;
+}
+.help-icon3,
+.home-icon3 {
+  left: 3689px;
+}
+.home-icon3 {
+  top: 96px;
+  left: 3276px;
+}
+.desktop-5 {
+  position: absolute;
+  top: 0;
+  left: 47px;
+  background-color: var(--color-black);
+  width: 3880px;
+  height: 2779px;
+  overflow: hidden;
+}
+.full-stop-icon {
+  position: absolute;
+  top: 362px;
+  left: 241px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.desktop-5-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2834px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}

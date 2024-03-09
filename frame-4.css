@@ -1,0 +1,330 @@
+.desktop-4 {
+  position: absolute;
+  top: 3609px;
+  left: 147px;
+  background-color: var(--color-black);
+  width: 3880px;
+  height: 2942px;
+  overflow: hidden;
+}
+.desktop-3-child {
+  position: absolute;
+  top: 3234.5px;
+  left: -102.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 3984.2px;
+  height: 3px;
+}
+.facebook-icon2,
+.instagram-icon2,
+.linkedin-icon2,
+.twitterx-icon2,
+.youtube-icon2 {
+  position: absolute;
+  top: 3264px;
+  left: 3160px;
+  width: 109px;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon2,
+.instagram-icon2,
+.linkedin-icon2,
+.twitterx-icon2 {
+  left: 3293px;
+}
+.facebook-icon2,
+.linkedin-icon2,
+.twitterx-icon2 {
+  left: 3426px;
+}
+.linkedin-icon2,
+.twitterx-icon2 {
+  left: 3559px;
+}
+.twitterx-icon2 {
+  left: 3692px;
+}
+.about-us1,
+.privercy-policy1,
+.terms-of-uses1 {
+  position: absolute;
+  top: 3281px;
+  left: 659px;
+  font-weight: 300;
+  text-align: center;
+}
+.about-us1,
+.terms-of-uses1 {
+  left: 105px;
+}
+.about-us1 {
+  left: 1216px;
+  cursor: pointer;
+}
+.desktop-3-child1,
+.desktop-3-child2,
+.desktop-3-inner,
+.desktop-3-item {
+  position: absolute;
+  top: 538px;
+  left: 97px;
+  width: 749px;
+  height: 787px;
+  object-fit: cover;
+}
+.desktop-3-child1,
+.desktop-3-child2,
+.desktop-3-inner {
+  left: 2966px;
+}
+.desktop-3-child1,
+.desktop-3-child2 {
+  left: 2005px;
+}
+.desktop-3-child2 {
+  left: 1044px;
+}
+.g-12gb-ram {
+  margin: 0;
+}
+.samsung-galaxy-s24-container {
+  position: absolute;
+  top: 1353px;
+  left: 81px;
+  font-weight: 300;
+}
+.amd-ryzen {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.hp-pavilion-15-container,
+.sony-alpha-zv-container {
+  position: absolute;
+  top: 1353px;
+  left: 1044px;
+  font-weight: 300;
+}
+.sony-alpha-zv-container {
+  left: 2005px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 1548px;
+  left: 88px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+}
+.div1,
+.div2 {
+  top: 1567px;
+  left: 1044px;
+}
+.div2 {
+  top: 1548px;
+  left: 2005px;
+}
+.samsung-galaxy-watch6-container {
+  position: absolute;
+  top: 1339px;
+  left: 2966px;
+  font-weight: 300;
+}
+.div3 {
+  position: absolute;
+  top: 1548px;
+  left: 2978px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+}
+.desktop-3-child3,
+.desktop-3-child4,
+.desktop-3-child5,
+.desktop-3-child6 {
+  position: absolute;
+  top: 1934px;
+  left: 1015px;
+  width: 749px;
+  height: 787px;
+  object-fit: cover;
+}
+.desktop-3-child4,
+.desktop-3-child5,
+.desktop-3-child6 {
+  left: 123px;
+}
+.desktop-3-child5,
+.desktop-3-child6 {
+  left: 2005px;
+}
+.desktop-3-child6 {
+  left: 2966px;
+}
+.ebronics-envy-bluetooth-container,
+.sony-x82l-1639-container {
+  position: absolute;
+  top: 2749px;
+  left: 123px;
+  font-weight: 300;
+}
+.sony-x82l-1639-container {
+  top: 2735px;
+  left: 1015px;
+}
+.marshall-middleton-portable-container {
+  position: absolute;
+  top: 2721px;
+  left: 1940px;
+  font-weight: 300;
+}
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  top: 2977px;
+  left: 123px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+}
+.div5,
+.div6 {
+  top: 2963px;
+  left: 997px;
+}
+.div6 {
+  left: 1940px;
+}
+.apple-airpods-pro-container {
+  position: absolute;
+  top: 2721px;
+  left: 2966px;
+  font-weight: 300;
+}
+.div7 {
+  position: absolute;
+  top: 2977px;
+  left: 2966px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+}
+.desktop-3-child7 {
+  position: absolute;
+  top: 271.5px;
+  left: 0;
+  max-height: 100%;
+  width: 3880px;
+}
+.croma2,
+.desktop-3-child8 {
+  position: absolute;
+  cursor: pointer;
+}
+.croma2 {
+  top: 52px;
+  left: 137px;
+  font-size: var(--font-size-109xl);
+  text-align: center;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.desktop-3-child8 {
+  top: 57px;
+  left: 1368px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-snow-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1438px;
+  height: 146px;
+}
+.what-are-you2 {
+  position: absolute;
+  top: 105px;
+  left: 1563px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+  color: var(--color-black);
+  text-align: center;
+}
+.menu-icon2,
+.menu2 {
+  position: absolute;
+  top: 88px;
+  height: 90px;
+}
+.menu2 {
+  left: 864px;
+  font-size: var(--font-size-61xl);
+  font-weight: 300;
+  text-align: center;
+  display: inline-block;
+  width: 208px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.menu-icon2 {
+  left: 749px;
+  width: 90px;
+  object-fit: cover;
+}
+.customer-icon3,
+.help-icon2,
+.home-icon2,
+.search-icon4,
+.shopping-cart-icon2 {
+  position: absolute;
+  top: 88px;
+  left: 1420px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.customer-icon3,
+.help-icon2,
+.home-icon2,
+.shopping-cart-icon2 {
+  left: 3404px;
+  cursor: pointer;
+}
+.help-icon2,
+.home-icon2,
+.shopping-cart-icon2 {
+  left: 3547px;
+}
+.help-icon2,
+.home-icon2 {
+  left: 3689px;
+}
+.home-icon2 {
+  top: 85px;
+  left: 3281px;
+}
+.desktop-3,
+.frame-item {
+  position: absolute;
+  left: 47px;
+  width: 3880px;
+}
+.desktop-3 {
+  top: 63px;
+  background-color: var(--color-black);
+  height: 3435px;
+  overflow: hidden;
+}
+.frame-item {
+  top: 3229px;
+  background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.79));
+  height: 269px;
+}
+.desktop-3-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3564px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}

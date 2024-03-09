@@ -1,0 +1,604 @@
+.your-cart {
+  position: absolute;
+  top: 442px;
+  left: 317px;
+  font-size: var(--font-size-53xl);
+  font-family: var(--font-kaisei-decol);
+  text-align: center;
+}
+.desktop-6-child,
+.desktop-6-inner,
+.desktop-6-item {
+  position: absolute;
+  top: 691px;
+  left: 317px;
+  border-radius: var(--br-56xl);
+  background-color: var(--color-snow-200);
+  width: 2019px;
+  height: 200px;
+}
+.desktop-6-inner,
+.desktop-6-item {
+  left: 2513px;
+  width: 1211px;
+  height: 905px;
+}
+.desktop-6-inner {
+  top: 1096px;
+  left: 317px;
+  width: 2019px;
+  height: 700px;
+}
+.emi-options {
+  position: absolute;
+  top: 2400px;
+  left: 2150px;
+  font-size: var(--font-size-5xl);
+}
+.desktop-6-child1 {
+  top: 2433.5px;
+  left: 2149.5px;
+  border-top: 1px solid var(--color-white);
+  width: 70px;
+  height: 1px;
+}
+.desktop-6-child1,
+.desktop-6-child2,
+.desktop-6-child3 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.desktop-6-child2 {
+  top: 2433.5px;
+  left: 2224.5px;
+  border-top: 1px solid var(--color-white);
+  width: 68px;
+  height: 1px;
+}
+.desktop-6-child3 {
+  top: 1532px;
+  left: calc(50% - 693px);
+  border-radius: var(--br-6xl);
+  border: 3px solid var(--color-deepskyblue);
+  width: 322px;
+  height: 101px;
+  mix-blend-mode: color-dodge;
+}
+.remove {
+  position: absolute;
+  top: 1561px;
+  left: 1339px;
+  font-family: var(--font-inter);
+}
+.express-delivery-by {
+  margin: 0;
+}
+.express-delivery-by-container {
+  position: absolute;
+  top: 1367px;
+  left: 755px;
+  font-family: var(--font-inter);
+}
+.emi-options1,
+.save-300000 {
+  position: absolute;
+  top: 1626px;
+  left: 2150px;
+  font-size: var(--font-size-5xl);
+}
+.save-300000 {
+  top: 1446px;
+  left: 2036px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-500);
+}
+.desktop-6-child4 {
+  position: absolute;
+  top: 1530.5px;
+  left: 1894.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 421px;
+  height: 3px;
+}
+.mrp-1499900 {
+  position: absolute;
+  top: 1374px;
+  left: 1984px;
+  white-space: pre-wrap;
+}
+.desktop-6-child5 {
+  position: absolute;
+  top: 1873px;
+  left: 317px;
+  border-radius: var(--br-56xl);
+  background-color: var(--color-snow-200);
+  width: 2019px;
+  height: 700px;
+}
+.desktop-6-child6 {
+  position: absolute;
+  top: 2278px;
+  left: calc(50% - 693px);
+  border-radius: var(--br-6xl);
+  border: 3px solid var(--color-deepskyblue);
+  box-sizing: border-box;
+  width: 322px;
+  height: 101px;
+  mix-blend-mode: color-dodge;
+}
+.remove1 {
+  position: absolute;
+  top: 2307px;
+  left: 1339px;
+  font-family: var(--font-inter);
+}
+.desktop-6-child7 {
+  position: absolute;
+  top: 2278px;
+  left: calc(50% - 1185px);
+  border-radius: var(--br-6xl);
+  border: 3px solid var(--color-deepskyblue);
+  box-sizing: border-box;
+  width: 391px;
+  height: 101px;
+  mix-blend-mode: color-dodge;
+}
+.move-to-wishlist {
+  position: absolute;
+  top: 2307px;
+  left: 801px;
+  font-family: var(--font-inter);
+}
+.star-icon,
+.star-icon1,
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  position: absolute;
+  top: 2012px;
+  left: 810px;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.star-icon1,
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  left: 865px;
+}
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  left: 920px;
+}
+.star-icon3,
+.star-icon4 {
+  left: 975px;
+}
+.star-icon4 {
+  left: 755px;
+}
+.mo,
+.save-391000 {
+  position: absolute;
+  top: 2320px;
+  left: 2102px;
+}
+.save-391000 {
+  top: 2214px;
+  left: 2041px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-500);
+}
+.desktop-6-child8,
+.desktop-6-child9 {
+  position: absolute;
+  top: 1351px;
+  left: 1895.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 421px;
+  height: 3px;
+}
+.desktop-6-child9 {
+  top: 2116.5px;
+}
+.apply-coupon,
+.incl-all-taxes {
+  position: absolute;
+  top: 1997px;
+  left: 2035px;
+}
+.apply-coupon {
+  top: 739px;
+  left: 538px;
+  font-size: var(--font-size-53xl);
+  font-family: var(--font-kaisei-decol);
+  text-align: center;
+}
+.ctrm1v-1-icon {
+  position: absolute;
+  top: 1053px;
+  left: 356px;
+  width: 399px;
+  height: 417px;
+  object-fit: cover;
+}
+.div10,
+.div11,
+.div8,
+.div9 {
+  position: absolute;
+  top: 1084px;
+  left: 1918px;
+  font-size: var(--font-size-53xl);
+}
+.div10,
+.div11,
+.div9 {
+  top: 915px;
+  left: 3230px;
+}
+.div10,
+.div11 {
+  top: 1101px;
+}
+.div11 {
+  top: 1873px;
+  left: 1861px;
+}
+.incl-all-taxes1,
+.mrp-14490000 {
+  position: absolute;
+  top: 2134px;
+  left: 1967px;
+}
+.incl-all-taxes1 {
+  top: 1215px;
+  left: 2035px;
+}
+.desktop-6-child10,
+.desktop-6-child11 {
+  position: absolute;
+  top: 2293.5px;
+  left: 1895.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 421px;
+  height: 3px;
+}
+.desktop-6-child11 {
+  top: 1409px;
+  left: 1971px;
+  border-top: 2px solid var(--color-gray-200);
+  width: 322px;
+  height: 2px;
+}
+.mo1 {
+  position: absolute;
+  top: 1554px;
+  left: 2123px;
+}
+.desktop-6-child12 {
+  top: 1659.5px;
+  left: 2149.5px;
+  border-top: 1px solid var(--color-white);
+  width: 70px;
+  height: 1px;
+}
+.desktop-6-child12,
+.desktop-6-child13,
+.desktop-6-child14 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.desktop-6-child13 {
+  top: 1659.5px;
+  left: 2224.5px;
+  border-top: 1px solid var(--color-white);
+  width: 68px;
+  height: 1px;
+}
+.desktop-6-child14 {
+  top: 1366px;
+  left: 1166px;
+  border-right: 2px solid #383535;
+  width: 2px;
+  height: 123px;
+}
+.standard-delivery-by-container,
+.standard-delivery-by-container1 {
+  position: absolute;
+  top: 1367px;
+  left: 1204px;
+  font-family: var(--font-inter);
+}
+.standard-delivery-by-container1 {
+  top: 2134px;
+  left: 755px;
+}
+.desktop-6-child15 {
+  position: absolute;
+  top: 1532px;
+  left: calc(50% - 1185px);
+  border-radius: var(--br-6xl);
+  border: 3px solid var(--color-deepskyblue);
+  box-sizing: border-box;
+  width: 391px;
+  height: 101px;
+  mix-blend-mode: color-dodge;
+}
+.move-to-wishlist1 {
+  position: absolute;
+  top: 1561px;
+  left: 801px;
+  font-family: var(--font-inter);
+}
+.vlh8c9-1-icon {
+  position: absolute;
+  top: 1873px;
+  left: 347px;
+  width: 417px;
+  height: 417px;
+  object-fit: cover;
+}
+.apple-iphone-15 {
+  position: absolute;
+  top: 1914px;
+  left: 755px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inter);
+}
+.desktop-6-child16 {
+  position: absolute;
+  top: 2169px;
+  left: 1948px;
+  border-top: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 345px;
+  height: 2px;
+}
+.order-summery,
+.orignal-price-total-container {
+  position: absolute;
+  top: 752px;
+  left: 2597px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-kaisei-decol);
+}
+.orignal-price-total-container {
+  top: 936px;
+}
+.desktop-6-child17 {
+  position: absolute;
+  top: 1329px;
+  left: 2597px;
+  border-radius: var(--br-31xl);
+  background-color: rgba(14, 255, 212, 0.86);
+  width: 1070px;
+  height: 149px;
+}
+.checkout {
+  position: absolute;
+  top: 1333px;
+  left: 2947px;
+  font-size: var(--font-size-53xl);
+  color: var(--color-gray-100);
+}
+.desktop-6-child18 {
+  position: absolute;
+  top: 277.5px;
+  left: 0;
+  max-height: 100%;
+  width: 3880px;
+}
+.croma4,
+.desktop-6-child19 {
+  position: absolute;
+  cursor: pointer;
+}
+.croma4 {
+  top: 58px;
+  left: 137px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-jura);
+  text-align: center;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.desktop-6-child19 {
+  top: 63px;
+  left: 1368px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-snow-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1438px;
+  height: 146px;
+}
+.what-are-you4 {
+  position: absolute;
+  top: 111px;
+  left: 1563px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+  font-family: var(--font-jura);
+  color: var(--color-black);
+  text-align: center;
+  cursor: pointer;
+}
+.menu-icon4,
+.menu4 {
+  position: absolute;
+  top: 94px;
+  height: 90px;
+}
+.menu4 {
+  left: 864px;
+  font-size: var(--font-size-61xl);
+  font-weight: 300;
+  font-family: var(--font-jura);
+  text-align: center;
+  display: inline-block;
+  width: 208px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.menu-icon4 {
+  left: 749px;
+  width: 90px;
+  object-fit: cover;
+}
+.search-icon6 {
+  left: 1420px;
+}
+.customer-icon5,
+.help-icon4,
+.home-icon4,
+.search-icon6,
+.shopping-cart-icon4 {
+  position: absolute;
+  top: 94px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.customer-icon5 {
+  left: 3404px;
+  cursor: pointer;
+}
+.help-icon4,
+.home-icon4,
+.shopping-cart-icon4 {
+  left: 3547px;
+}
+.help-icon4,
+.home-icon4 {
+  left: 3689px;
+  cursor: pointer;
+}
+.home-icon4 {
+  top: 95px;
+  left: 3262px;
+}
+.desktop-6 {
+  position: absolute;
+  top: 65px;
+  left: 47px;
+  background-color: var(--color-black);
+  width: 3880px;
+  height: 2937px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-kadwa);
+}
+.facebook-icon5,
+.instagram-icon4,
+.linkedin-icon4,
+.twitterx-icon4,
+.youtube-icon4 {
+  position: absolute;
+  top: 2806px;
+  left: 3259.1px;
+  width: 109px;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon5,
+.instagram-icon4,
+.linkedin-icon4,
+.twitterx-icon4 {
+  left: 3392.1px;
+}
+.facebook-icon5,
+.linkedin-icon4,
+.twitterx-icon4 {
+  left: 3525.1px;
+}
+.linkedin-icon4,
+.twitterx-icon4 {
+  left: 3658.1px;
+}
+.twitterx-icon4 {
+  left: 3791.1px;
+}
+.about-us3,
+.privercy-policy3,
+.terms-of-uses3 {
+  position: absolute;
+  top: 2829px;
+  left: 774.1px;
+  font-weight: 300;
+}
+.about-us3,
+.terms-of-uses3 {
+  left: 220.1px;
+}
+.about-us3 {
+  left: 1331.1px;
+  cursor: pointer;
+}
+.discount-icon,
+.more-than-icon1 {
+  position: absolute;
+  top: 813px;
+  left: 435px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.more-than-icon1 {
+  left: 2220px;
+  width: 100px;
+  height: 100px;
+}
+.jabra-elite-5-container {
+  position: absolute;
+  top: 1192px;
+  left: 790px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inter);
+  text-align: left;
+}
+.star-icon5,
+.star-icon6,
+.star-icon7,
+.star-icon8,
+.star-icon9 {
+  position: absolute;
+  top: 1343px;
+  left: 845px;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.star-icon6,
+.star-icon7,
+.star-icon8,
+.star-icon9 {
+  left: 900px;
+}
+.star-icon7,
+.star-icon8,
+.star-icon9 {
+  left: 955px;
+}
+.star-icon8,
+.star-icon9 {
+  left: 1010px;
+}
+.star-icon9 {
+  left: 790px;
+}
+.desktop-6-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3059px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}

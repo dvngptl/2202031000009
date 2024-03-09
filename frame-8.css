@@ -1,0 +1,311 @@
+.desktop-8-child {
+  position: absolute;
+  top: 279.5px;
+  left: 0;
+  max-height: 100%;
+  width: 3880px;
+}
+.croma6,
+.desktop-8-item {
+  position: absolute;
+  cursor: pointer;
+}
+.croma6 {
+  top: 60px;
+  left: 137px;
+  font-size: var(--font-size-109xl);
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.desktop-8-item {
+  top: 65px;
+  left: 1368px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-snow-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1438px;
+  height: 146px;
+}
+.what-are-you6 {
+  position: absolute;
+  top: 113px;
+  left: 1563px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+  color: var(--color-black);
+}
+.menu-icon6,
+.menu6,
+.search-icon8 {
+  position: absolute;
+  top: 96px;
+  height: 90px;
+}
+.menu6 {
+  left: 864px;
+  font-size: var(--font-size-61xl);
+  font-weight: 300;
+  display: inline-block;
+  width: 208px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.menu-icon6,
+.search-icon8 {
+  left: 749px;
+  width: 90px;
+  object-fit: cover;
+}
+.search-icon8 {
+  left: 1420px;
+}
+.customer-icon7 {
+  left: 3404px;
+  cursor: pointer;
+}
+.customer-icon7,
+.help-icon6,
+.shopping-cart-icon6 {
+  position: absolute;
+  top: 96px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.shopping-cart-icon6 {
+  left: 3547px;
+  cursor: pointer;
+}
+.help-icon6 {
+  left: 3689px;
+}
+.desktop-8-inner {
+  position: absolute;
+  top: 2104.5px;
+  left: -52.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 3984.2px;
+  height: 3px;
+}
+.facebook-icon7,
+.instagram-icon6,
+.linkedin-icon6,
+.twitterx-icon6,
+.youtube-icon6 {
+  position: absolute;
+  top: 2139px;
+  left: 3180.1px;
+  width: 109px;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon7,
+.instagram-icon6,
+.linkedin-icon6,
+.twitterx-icon6 {
+  left: 3313.1px;
+}
+.facebook-icon7,
+.linkedin-icon6,
+.twitterx-icon6 {
+  left: 3446.1px;
+}
+.linkedin-icon6,
+.twitterx-icon6 {
+  left: 3579.1px;
+}
+.twitterx-icon6 {
+  left: 3712.1px;
+}
+.privercy-policy5 {
+  position: absolute;
+  top: 2162px;
+  left: 695.1px;
+  font-weight: 300;
+}
+.terms-of-uses5 {
+  top: 2162px;
+  left: 141.1px;
+}
+.about-us5,
+.terms-of-uses5,
+.welcome-to-croma {
+  position: absolute;
+  font-weight: 300;
+}
+.about-us5 {
+  top: 2162px;
+  left: 1252.1px;
+  cursor: pointer;
+}
+.welcome-to-croma {
+  top: 465px;
+  left: 189px;
+  font-size: 110px;
+}
+.desktop-8-child1 {
+  position: absolute;
+  top: 593.5px;
+  left: 189px;
+  max-height: 100%;
+  width: 1929.2px;
+}
+.what-would-you {
+  position: absolute;
+  top: 636px;
+  left: 189px;
+  font-size: 55px;
+  font-weight: 600;
+}
+.desktop-8-child2,
+.desktop-8-child3,
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6,
+.desktop-8-child7 {
+  position: absolute;
+  top: 856px;
+  left: 567px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-200);
+  width: 1247px;
+  height: 241px;
+}
+.desktop-8-child3,
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6,
+.desktop-8-child7 {
+  top: 1760px;
+  left: 2087px;
+}
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6,
+.desktop-8-child7 {
+  top: 1308px;
+}
+.desktop-8-child5,
+.desktop-8-child6,
+.desktop-8-child7 {
+  top: 1760px;
+  left: 567px;
+}
+.desktop-8-child6,
+.desktop-8-child7 {
+  top: 1308px;
+}
+.desktop-8-child7 {
+  top: 856px;
+  left: 2087px;
+}
+.delivery-icon,
+.guarantee-icon,
+.help-icon7,
+.secure-icon,
+.standing-man-icon {
+  position: absolute;
+  top: 927px;
+  left: 645px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.guarantee-icon,
+.help-icon7,
+.secure-icon,
+.standing-man-icon {
+  top: 1379px;
+}
+.help-icon7,
+.secure-icon,
+.standing-man-icon {
+  top: 1831px;
+}
+.help-icon7,
+.secure-icon {
+  top: 1379px;
+  left: 2182px;
+}
+.help-icon7 {
+  top: 1831px;
+}
+.a-delivery-order {
+  position: absolute;
+  top: 939px;
+  left: 794px;
+  font-weight: 600;
+  color: #060606;
+}
+.payment-charges-or {
+  margin: 0;
+}
+.payment-charges-or-container {
+  position: absolute;
+  top: 939px;
+  left: 2313px;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.login-addresssecurity-container {
+  position: absolute;
+  top: 1350px;
+  left: 2313px;
+  font-weight: 600;
+  color: #050505;
+  text-align: left;
+}
+.accessibility,
+.membership-subscription,
+.something-else {
+  position: absolute;
+  top: 1391px;
+  left: 794px;
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+}
+.accessibility,
+.something-else {
+  top: 1843px;
+}
+.something-else {
+  left: 2313px;
+}
+.home-icon6 {
+  position: absolute;
+  top: 97px;
+  left: 3289px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.desktop-8 {
+  position: absolute;
+  top: 76px;
+  left: 47px;
+  background-color: var(--color-black);
+  width: 3880px;
+  height: 2363px;
+  overflow: hidden;
+}
+.card-payment-icon {
+  position: absolute;
+  top: 1008px;
+  left: 2220px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.desktop-8-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2439px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
